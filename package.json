@@ -4,7 +4,7 @@
   "description": "Primer proyecto",
   "main": "index.html",
   "scripts": {
-    "dev":"lite-server"
+    "dev": "lite-server"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,10 @@
   "homepage": "https://github.com/Exoz92/guiahoteles#readme",
   "devDependencies": {
     "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.0",
+    "jquery": "^3.6.0",
+    "popper.js": "^1.16.1"
   }
 }
